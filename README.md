@@ -10,7 +10,6 @@ Welcome to the **AI Resume Projects Repo**, a collection of personal and educati
 ai-resume-projects\
 ├── machine_learning\
 ├── deep_learning\
-├── requirements.txt\
 ├── LICENSE\
 └── README.md # you are here
 
