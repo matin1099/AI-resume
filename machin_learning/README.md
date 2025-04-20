@@ -1,6 +1,6 @@
 # 🤖 Machine Learning Projects
 
-This directory hosts a collection of classic machine learning problems, including both **regression** and **classification** tasks. It covers popular algorithms such as **Support Vector Machines (SVM)** and **K-Nearest Neighbors (KNN)**, along with foundational models like linear regression and logistic regression.
+This directory hosts a collection of classic machine learning problems, including both **regression** and **classification** tasks. It covers popular algorithms such as **Support Vector Machines (SVM)**, **RFC** and **K-Nearest Neighbors (KNN)**, along with foundational models like linear regression and logistic regression.
 
 ---
 
@@ -28,9 +28,7 @@ This directory hosts a collection of classic machine learning problems, includin
 
 ---
 
-## 📈 How to Use
 
----
 
 ✅ Key Features
 Clean, well-commented notebooks(tried!!)
