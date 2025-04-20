@@ -7,12 +7,13 @@ Welcome to the **AI Resume Projects Repo**, a collection of personal and educati
 ---
 ## 🧭 Directory Overview
 
-ai-resume-projects/
-├── machine_learning/
-├── deep_learning/
-├── requirements.txt
-├── LICENSE
-└── README.md
+ai-resume-projects\
+├── machine_learning\
+├── deep_learning\
+├── requirements.txt\
+├── LICENSE\
+└── README.md # you are here
+
 
 ---
 
@@ -32,7 +33,7 @@ ai-resume-projects/
 ### ✅ Deep Learning
 - CIFAR-10 / CIFAR-100 classification (pure & transfer learning)
 - NLP (lyric generation using LSTMs)
-- Time-series climate prediction
+- Object Detection based on YOLO v11
 - Model visualization, logs, and saved weights
 
 📂 See [`deep_learning/`](./deep_learning/README.md)
