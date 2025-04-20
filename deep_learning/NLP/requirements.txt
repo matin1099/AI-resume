@@ -1,0 +1,10 @@
+beautifulsoup4
+jupyterlab
+keras
+lxml
+pandas
+pillow
+scikit-learn
+seaborn
+tensorboard
+tensorflow

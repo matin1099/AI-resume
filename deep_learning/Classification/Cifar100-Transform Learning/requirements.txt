@@ -1,0 +1,8 @@
+jupyterlab
+keras
+pandas
+pillow
+scikit-learn
+seaborn
+tensorboard
+tensorflow
