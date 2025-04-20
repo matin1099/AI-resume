@@ -39,7 +39,7 @@ The `dataset raw/` folder contains **XHTML documents** from **Ganjor library**  
 - Building a richer Persian or structured-language corpus
 - Extracting semantic or structural text
 
---
+---
 
 ## ✅ Results
  In training phase these metrics was met:
