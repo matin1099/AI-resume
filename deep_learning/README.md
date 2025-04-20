@@ -5,16 +5,16 @@ A collection of deep learning projects organized by task: classification, NLP,  
 ## 📁 Project Structure
 - `classification/`: Cifar10 & Cifar100 projects with transfer learning and pure models
 - `nlp/`: Dataset generation from [Ganjor library](https://epub.ganjoor.net/), Lyrics generation and text analysis
-deep_learning/
-├── classification/
-│ ├── cifar10-transfer-learning/
-│ ├── cifar10-pure/
-│ ├── cifar100-transfer-learning/
-│ └── cifar100-pure/
-├── nlp/
-│ ├── lyric generation/
-│ └── raw datasets/
-└── object_detection/
+deep_learning\
+├── classification\
+│ ├── cifar10-transfer-learning\
+│ ├── cifar10-pure\
+│ ├── cifar100-transfer-learning\
+│ └── cifar100-pure\
+├── nlp\
+│ ├── lyric generation\
+│ └── raw datasets\
+└── object_detection\
 
 
 ## 🛠️ Requirements
