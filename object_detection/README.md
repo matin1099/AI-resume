@@ -1,42 +1,33 @@
-# 🤖 Machine Learning Projects
+# Object Detection 📷 🧼
 
-This directory hosts a collection of classic machine learning problems, including both **regression** and **classification** tasks. It covers popular algorithms such as **Support Vector Machines (SVM)**, **RFC** and **K-Nearest Neighbors (KNN)**, along with foundational models like linear regression and logistic regression.
-
-**Also**, UnSupervised methods such as **Clustering**  also used on some problems.
-
----
+A project based on YOLO and brain tumor database, to detect tumor.
 
 
-## 🔍 Included Projects
-
-### 🔹 Regression
-- **Linear Regression**: Predict continuous values using least squares fit.
-- **Polynomial Regression**: Capture nonlinear trends using higher-order terms.
-
-### 🔹 Classification
-- **Logistic Regression**: Binary classification with sigmoid activation.
-- **Support Vector Machines (SVM)**: Margin-based classifier for linear and nonlinear boundaries.
-- **K-Nearest Neighbors (KNN)**: Distance-based classifier using k nearest data points.
-- **RFC** and etc.
----
-
-## 📊 Tools & Libraries
-
-- Python 3.9 + 
-- scikit-learn
-- pandas, NumPy
-- matplotlib / seaborn
-- Jupyter Notebooks
-
----
+## 📁 Project Structure
+object_detection\
+├── result\
+│ ├── F1_curve.png\
+│ ├── val_batch1_pred.jpg\
+│ ├── val_batch2_pred.jpg\
+│ └── val_batch3_pred.jpg\
+├── README.md\
+├── config_generator.py\
+├── predict.py\
+├── requirment.txt\
+└── train.py
 
 
+## 🛠️ Requirements
+- Python 3.10+
+- Ultralytic.
 
-✅ Key Features
-Clean, well-commented notebooks(tried!!)
+## 🚀 Getting Started
+1. Clone this repo
+2. Install dependencies: `pip install -r requirements.txt`
+3. Then start  with `python config_generator.py` to create a config file. If need to change params, do it by editing this `.py` file.
+4. For training `python train.py`
+5. For useing Prediction use `python predict.py SOURCE` which could be a image/video/webcam. For webcam use `0`.
 
-
-Visualizations of decision boundaries and regression curves
-
-Evaluation metrics (e.g., accuracy, MSE, confusion matrix)
-
+## 📝 License
+This repo Licensed under `GNU Affrero General Public License`.
+For more information check License
