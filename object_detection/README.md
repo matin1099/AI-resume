@@ -20,6 +20,7 @@ object_detection\
 ## 🛠️ Requirements
 - Python 3.10+
 - Ultralytic.
+- torch
 
 ## 🚀 Getting Started
 1. Clone this repo
