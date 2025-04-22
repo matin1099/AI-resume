@@ -45,7 +45,7 @@ ai-resume-projects\
 - Object Detection based 
 - Modular based
 
-📂 See [`Object_deection/`](./Object\ Detection/README.md)
+📂 See [`Object_deection/`](./Object_Detection/README.md)
 
 ---
 
