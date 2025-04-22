@@ -14,7 +14,6 @@ deep_learning\
 ├── nlp\
 │ ├── lyric generation\
 │ └── raw datasets\
-└── object_detection\
 
 
 ## 🛠️ Requirements
