@@ -39,6 +39,16 @@ ai-resume-projects\
 
 ---
 
+### ✅ Object Detection
+- YOLO 11 based model 
+- Trained on Brain tumor
+- Object Detection based 
+- Modular based
+
+📂 See [`Object_deection/`](./Object\ Detection/README.md)
+
+---
+
 ## 🔧 Tech Stack
 
 Python 3.10+
